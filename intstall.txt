@@ -1,9 +1,0 @@
-
-Cài Đặt cv2 cho project
-// pip install cv2
-
-//Tất cả những thư viện còn lại thì python đã hỗ trợ
-
-
-// D:\Python38\Lib\site-packages\cv2\data
-Vào đường dẫn này và copy paste vào project

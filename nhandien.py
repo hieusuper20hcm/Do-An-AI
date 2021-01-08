@@ -3,7 +3,7 @@ import numpy as np
 
 faceDetect=cv2.CascadeClassifier('D:\\NhanDien\\haarcascade_frontalface_default.xml')
 
-image = cv2.imread("dataset/user.1.1.jpg")
+image = cv2.imread("dataset/user.3.1.jpg")
 
 # Bước 2: Tạo một bức ảnh xám
 grayImage = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
